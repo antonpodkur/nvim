@@ -60,4 +60,10 @@ use {
     end,
 }
 
+use {
+    "nvim-tree/nvim-tree.lua",
+    after = "nvim-web-devicons",
+    requires = "nvim-tree/nvim-web-devicons",
+}
+
 end)
