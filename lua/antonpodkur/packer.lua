@@ -68,4 +68,8 @@ use {
     requires = "nvim-tree/nvim-web-devicons",
 }
 
+
+use('windwp/nvim-autopairs')
+use('windwp/nvim-ts-autotag')
+
 end)
