@@ -72,4 +72,6 @@ use {
 use('windwp/nvim-autopairs')
 use('windwp/nvim-ts-autotag')
 
+use {'akinsho/bufferline.nvim', tag = "*", requires = 'nvim-tree/nvim-web-devicons'}
+
 end)
