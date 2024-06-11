@@ -16,6 +16,8 @@ return {
   opts = function()
     return {
       transparent = false,
+      theme = "dragon",
+      background = "",
     }
   end,
 }
