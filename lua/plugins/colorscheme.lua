@@ -1,5 +1,16 @@
+-- return {
+--   "craftzdog/solarized-osaka.nvim",
+--   lazy = true,
+--   priority = 1000,
+--   opts = function()
+--     return {
+--       transparent = false,
+--     }
+--   end,
+-- }
+
 return {
-  "craftzdog/solarized-osaka.nvim",
+  "rebelot/kanagawa.nvim",
   lazy = true,
   priority = 1000,
   opts = function()
